@@ -13,4 +13,3 @@ This project replicates the Spotify UI with basic music player controls.
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
